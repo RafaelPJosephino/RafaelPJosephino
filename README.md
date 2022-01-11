@@ -47,8 +47,11 @@
    <a target="_blank" href="https://v3.vuejs.org/guide/introduction.html" rel="nofollow">
     <img alt="Vue.Js" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/vuejs/vuejs-original-wordmark.svg" />
   </a>
-    <a target="_blank" href="https://www.w3schools.com/git/default.asp" rel="nofollow">
+    <a target="_blank" href="https://www.w3schools.com/default.asp" rel="nofollow">
     <img alt="git" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+  </a>
+    <a target="_blank" href="https://docs.sencha.com/extjs/6.5.3/index.html" rel="nofollow">
+    <img alt="git" width="38px" src="https://docs.sencha.com/assets/images/sencha_logo_thumb.png" />
   </a>
 </div>
 
