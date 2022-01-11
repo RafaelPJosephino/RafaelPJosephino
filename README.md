@@ -51,7 +51,7 @@
     <img alt="git" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   </a>
     <a target="_blank" href="https://docs.sencha.com/extjs/6.5.3/index.html" rel="nofollow">
-    <img alt="git" width="38px" src="https://docs.sencha.com/assets/images/sencha_logo_thumb.png" />
+    <img alt="git" width="38px" height="38px" src="https://docs.sencha.com/assets/images/sencha_logo_thumb.png" />
   </a>
 </div>
 
