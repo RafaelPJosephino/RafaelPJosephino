@@ -95,6 +95,7 @@
 <div>
     <ul>
       <li><a target="_blank" href="https://www.sympla.com.br/download-certificado?t=noSonlLypvcm6JEbNHZzx2pJJtjMUY0XATAP2Ya0CKo" >DEVOPSBOOTCAMPLIVE #3</a> </li>
+      <li><a target="_blank" href="[https://www.sympla.com.br/download-certificado?t=noSonlLypvcm6JEbNHZzx2pJJtjMUY0XATAP2Ya0CKo](https://vp2uploads.s3.amazonaws.com/11575/certificado/c37b8022ddea847f87469f3bac5c06ef88ce14c0.pdf)" >Hackathon Exatas Connect Unimar</a> </li>
     </ul>
 </div>
 
