@@ -1,3 +1,4 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/RafaelPJosephino/RafaelPJosephino/blob/master/README.md)
 ## Olá, prazer meu nome é Rafael Puckoski Josephino
 
 ### Sobre mim:
