@@ -67,7 +67,7 @@
 ### Graduação:
 <div>
    <ul>
-   <li>Ensino Médio Profissionalizante na Área de Informática | <a href="https://www.cedupcriciuma.com.br">Cedup - Abilio Paulo</a> </li>
+   <li>Ensino Médio Profissionalizante na Área de Informática | <a href="https://www.instagram.com/cedupoficial/">Cedup - Abilio Paulo</a> </li>
    <li>Cursando Sistemas da Informacao | <a href="https://www.esucri.com.br">Universidade Esucri</a> </li>
    </ul>
 </div>
