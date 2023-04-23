@@ -67,7 +67,7 @@
 ### Graduation:
 <div>
    <ul>
-   <li>Vocational High School in the Computer Science Area | <a href="https://www.cedupcriciuma.com.br">Cedup - Abilio Paulo</a> </li>
+   <li>Vocational High School in the Computer Science Area | <a href="https://www.instagram.com/cedupoficial/">Cedup - Abilio Paulo</a> </li>
    <li>Studying Information Systems | <a href="https://www.esucri.com.br">University Cruzeiro do sul</a> </li>
    </ul>
 </div>
