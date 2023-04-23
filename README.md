@@ -100,7 +100,7 @@
 
 ### Contact:
 <div>
-    <a target="_blank" href="www.linkedin.com/in/rafael-puckoski-josephino">
+    <a target="_blank" href="https://www.linkedin.com/in/rafael-puckoski-josephino" rel="nofollow">
     <img alt="LinkdeIn de Rafael Puckoski Josephino" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
       <a target="_blank" href="mailto:Rafael.puckoski.josephino@gmail.com?Subject=Título%20da%20mensagem" rel="nofollow">
