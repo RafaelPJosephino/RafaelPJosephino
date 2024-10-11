@@ -64,8 +64,9 @@
 ### Graduação:
 <div>
    <ul>
-   <li>Ensino Médio Profissionalizante na Área de Informática | <a href="https://www.instagram.com/cedupoficial/">Cedup - Abilio Paulo</a> </li>
-   <li>Cursando Sistemas da Informacao | <a href="https://www.esucri.com.br">Universidade Esucri</a> </li>
+       <li>Ensino Médio Profissionalizante na Área de Informática | <a href="https://cedupcriciuma.com.br">Cedup - Abilio Paulo</a></li>
+       <li>Faculdade Sistemas da Informacao | <a href="https://www.esucri.com.br">Universidade Esucri</a></li>
+       <li>Faculdade Sistemas da Informacao | <a href="https://www.cruzeirodosulvirtual.com.br">Universidade Cruzeiro do sul</a></li>
    </ul>
 </div>
 
