@@ -6,7 +6,6 @@
 ### About me:
 <div>
   <ul>
-    <li>I'm 23 years old</li>
     <li>Information System Student;</li>
     <li>Empathy, Inclusion, Loyalty and Respect are essential values in all companies and teams.</li>
   </ul>
