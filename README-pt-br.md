@@ -72,7 +72,7 @@
 ### Cursos Complementares:
 <div>
     <ul>
-    <li>BootCamp Java | DIO (Digital Inovation One)</li>
+    <li>BootCamp Java | DIO (Digital Innovation One)</li>
         <ul>
             <li>  <a target="_blank" href="https://certificates.digitalinnovation.one/D66B9EB3" rel="nofollow">Lógica de Programação Essencial</a> (02/08/2021) | Digital Innovation One</li>
             <li> <a target="_blank" href="https://certificates.digitalinnovation.one/5DE964CA" rel="nofollow">Introdução ao Git e ao GitHub</a>  (03/08/2021) | Digital Innovation One</li>
