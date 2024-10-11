@@ -100,9 +100,9 @@
 </div>
 
 ### Contact:
-<div>
-  [![LinkedIn de Rafael Puckoski Josephino](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-puckoski-josephino)
+ [![LinkedIn de Rafael Puckoski Josephino](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-puckoski-josephino)
 
+<div>
     <a target="_blank" href="https://www.linkedin.com/in/rafael-puckoski-josephino" rel="nofollow">
     <img alt="LinkdeIn de Rafael Puckoski Josephino" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
