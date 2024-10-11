@@ -98,17 +98,10 @@
 </div>
 
 ### Entre em contato:
-<div>
-    <a target="_blank" href="www.linkedin.com/in/rafael-puckoski-josephino/" rel="nofollow">
-    <img alt="LinkdeIn de Rafael Puckoski Josephino" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-      <a target="_blank" href="mailto:Rafael.puckoski.josephino@gmail.com?Subject=Título%20da%20mensagem" rel="nofollow">
-      <img alt="Gmail de Rafael Puckoski Josephino" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    <a target="_blank" href="https://github.com/RafaelPJosephino" rel="nofollow">
-      <img alt="Github de Rafael Puckoski Josephino" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    </a>
-</div>
+[![LinkedIn de Rafael Puckoski Josephino](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-puckoski-josephino)
+[![Gmail de Rafael Puckoski Josephino](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rafael.puckoski.josephino@gmail.com?Subject=Título%20da%20mensagem)
+[![GitHub de Rafael Puckoski Josephino](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RafaelPJosephino)
+
 
 
 ###  Desenvolvido por:
