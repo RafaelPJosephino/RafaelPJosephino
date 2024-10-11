@@ -4,8 +4,7 @@
 ### Sobre mim:
 <div>
   <ul>
-    <li>Estudande de Sistema de Informações;</li>
-    <li>Em busca de novos desafios e conquistas;</li>
+    <li>Estudante de Sistema de Informações;</li>
     <li>Empatia, Inclusão, Lealdade e Respeito são valores essenciais em todas as empresas e equipes.</li>
   </ul>
 </div>
