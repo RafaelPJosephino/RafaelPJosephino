@@ -23,25 +23,34 @@
 
 ### Languages and tools:
 <div>
-  <a target="_blank" href="https://www.w3schools.com/tags/default.asp" rel="nofollow">
-    <img alt="html5" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-original-wordmark.svg" />
+  <a target="_blank" href="https://www.w3schools.com/default.asp" rel="nofollow">
+    <img alt="csharp" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/csharp/csharp-original.svg" />
   </a>
-  <a target="_blank" href="https://www.w3schools.com/cssref/default.asp" rel="nofollow">
-    <img alt="css3" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-original-wordmark.svg" />
+  <a target="_blank" href="https://dotnet.microsoft.com/en-us/" rel="nofollow">
+    <img alt="dotnetcore" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/dotnetcore/dotnetcore-original.svg" />
   </a>
-  <a target="_blank" href="https://code.visualstudio.com/docs" rel="nofollow">
-    <img alt="VScode" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/vscode/vscode-original-wordmark.svg" />
+  <a target="_blank" href="https://www.postman.com/" rel="nofollow">
+    <img alt="postman" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postman/postman-original.svg" />
+  </a>
+  <a target="_blank" href="https://dbeaver.io/" rel="nofollow">
+    <img alt="dbeaver" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/dbeaver/dbeaver-original.svg" />
   </a>
   <a target="_blank" href="https://www.postgresql.org/docs/current/" rel="nofollow">
     <img alt="PostgreSQL" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/postgresql/postgresql-original-wordmark.svg" />
   </a>
-   <a target="_blank" href="https://v3.vuejs.org/guide/introduction.html" rel="nofollow">
-    <img alt="Vue.Js" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/vuejs/vuejs-original-wordmark.svg" />
+  <a target="_blank" href="https://azure.microsoft.com/pt-br/products/devops" rel="nofollow">
+    <img alt="azuredevops" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/azuredevops/azuredevops-original.svg" />
   </a>
-    <a target="_blank" href="https://www.w3schools.com/default.asp" rel="nofollow">
+  <a target="_blank" href="https://git-scm.com/" rel="nofollow">
     <img alt="git" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   </a>
-    <a target="_blank" href="https://docs.sencha.com/extjs/6.5.3/index.html" rel="nofollow">
+  <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" rel="nofollow">
+    <img alt="javascript" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg" />
+  </a>
+  <a target="_blank" href="https://code.visualstudio.com/docs" rel="nofollow">
+    <img alt="VScode" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/vscode/vscode-original-wordmark.svg" />
+  </a>
+  <a target="_blank" href="https://docs.sencha.com/extjs/6.5.3/index.html" rel="nofollow">
     <img alt="git" width="25px" height="38px" src="https://docs.sencha.com/assets/images/sencha_logo_thumb.png" />
   </a>
 </div>
