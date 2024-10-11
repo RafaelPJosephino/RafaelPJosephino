@@ -4,8 +4,6 @@
 ### Sobre mim:
 <div>
   <ul>
-    <li>Tenho 21 anos;</li>
-    <li>Idealista sonhador;</li>
     <li>Estudande de Sistema de Informações;</li>
     <li>Em busca de novos desafios e conquistas;</li>
     <li>Empatia, Inclusão, Lealdade e Respeito são valores essenciais em todas as empresas e equipes.</li>
