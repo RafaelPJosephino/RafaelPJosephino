@@ -67,8 +67,8 @@
 <div>
    <ul>
        <li>Vocational High School in the Computer Science Area | <a href="https://cedupcriciuma.com.br/">Cedup - Abilio Paulo</a></li>
-       <li>Studying Information Systems | <a href="https://www.esucri.com.br">University Esucri</a></li>
-       <li>Studying Information Systems | <a href="https://www.cruzeirodosulvirtual.com.br/">University Cruzeiro do sul</a></li>
+       <li>Faculty of Information Systems | <a href="https://www.esucri.com.br">University Esucri</a></li>
+       <li>Faculty of Information Systems | <a href="https://www.cruzeirodosulvirtual.com.br/">University Cruzeiro do sul</a></li>
    </ul>
 </div>
 
