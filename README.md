@@ -79,10 +79,11 @@
             <li><a target="_blank" href="https://www.dio.me/certificate/2682DEDC" rel="nofollow">.NET Developer Training</a> (02/11/2023)</li>
             <li><a target="_blank" href="https://www.dio.me/certificate/00EEF16A" rel="nofollow">React Developer Training</a> (19/07/2023)</li>
         </ul>
-    <li><a target="_blank" href="https://www.udemy.com/course/padroes-de-projeto-em-java-na-pratica/">Design Patterns in Java</a> (In Progress) | Udemy</li>
-    <li><a target="_blank" href="https://www.udemy.com/course/java-curso-completo/">Java Object Oriented Programming</a>(In Progress) | Udemy</li>
-    <li>Smart Choice 2B English (Basic English) |<a target="_blank" href="https://ybrcursos.com.br"> Yesbras</a></li>
-    <li>Computer Maintenance | <a target="_blank" href="https://ybrcursos.com.br">Yesbras</a></li>
+    <li>Yesbras</li>
+        <ul>
+            <li><a target="_blank" href="https://ybrcursos.com.br">Smart Choice 2B English (Basic English)</a></li>
+            <li><a target="_blank" href="https://ybrcursos.com.br">Computer Maintenance</a></li>
+        </ul>
    </ul>
 </div>
   
