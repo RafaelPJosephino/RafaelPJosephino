@@ -74,15 +74,11 @@
 ### Complementary courses:
 <div>
     <ul>
-    <li>BootCamp Java | DIO (Digital Innovation One)</li>
+    <li>DIO (Digital Innovation One)</li>
         <ul>
-             <li><a target="_blank" href="https://certificates.digitalinnovation.one/D66B9EB3" rel="nofollow">Essential Programming Logic</a> (02/08/2021) | Digital Innovation One</li>
-             <li><a target="_blank" href="https://certificates.digitalinnovation.one/5DE964CA" rel="nofollow">Introduction to Git and GitHub</a> (08/03/2021) | Digital Innovation One</li>
-             <li><a target="_blank" href="https://certificates.digitalinnovation.one/68D934D1" rel="nofollow">Fundamentals of Systems Architecture</a> (04/08/2021) | Digital Innovation One</li>
-             <li><a target="_blank" href="https://certificates.digitalinnovation.one/345D42E5" rel="nofollow">Basic Java Development</a> (07/08/2021) | Digital Innovation One</li>
-             <li><a target="_blank" href="https://certificates.digitalinnovation.one/D651F37B" rel="nofollow">Implementing Collections and Streams with Java</a> (08/12/2021) | Digital Innovation One.</li>
-             <li><a target="_blank" href="https://certificates.digitalinnovation.one/B16D9132" rel="nofollow">Advanced Java Development</a> (08/15/2021) | Digital Innovation One.</li>
-             <li><a target="_blank" href="https://certificates.digitalinnovation.one/1A057692" rel="nofollow">Introduction to the Spring Boot framework</a> (08/24/2021) | Digital Innovation One</li>
+             <li><a target="_blank" href="https://certificates.digitalinnovation.one/D66B9EB3" rel="nofollow">.NET Developer</a> (02/11/2023)</li>
+          https://hermes.dio.me/certificates/00EEF16A.pdf
+             <li><a target="_blank" href="[https://certificates.digitalinnovation.one/5DE964CA](https://hermes.dio.me/certificates/00EEF16A.pdf)" rel="nofollow">Introduction to Git and GitHub</a> (19/07/2023)</li>
         </ul>
     <li><a target="_blank" href="https://www.udemy.com/course/padroes-de-projeto-em-java-na-pratica/">Design Patterns in Java</a> (In Progress) | Udemy</li>
     <li><a target="_blank" href="https://www.udemy.com/course/java-curso-completo/">Java Object Oriented Programming</a>(In Progress) | Udemy</li>
