@@ -76,9 +76,8 @@
     <ul>
     <li>DIO (Digital Innovation One)</li>
         <ul>
-             <li><a target="_blank" href="https://certificates.digitalinnovation.one/D66B9EB3" rel="nofollow">.NET Developer</a> (02/11/2023)</li>
-          https://hermes.dio.me/certificates/00EEF16A.pdf
-             <li><a target="_blank" href="[https://certificates.digitalinnovation.one/5DE964CA](https://hermes.dio.me/certificates/00EEF16A.pdf)" rel="nofollow">Introduction to Git and GitHub</a> (19/07/2023)</li>
+            <li><a target="_blank" href="https://www.dio.me/certificate/2682DEDC" rel="nofollow">.NET Developer Training</a> (02/11/2023)</li>
+            <li><a target="_blank" href="https://www.dio.me/certificate/00EEF16A" rel="nofollow">React Developer Training</a> (19/07/2023)</li>
         </ul>
     <li><a target="_blank" href="https://www.udemy.com/course/padroes-de-projeto-em-java-na-pratica/">Design Patterns in Java</a> (In Progress) | Udemy</li>
     <li><a target="_blank" href="https://www.udemy.com/course/java-curso-completo/">Java Object Oriented Programming</a>(In Progress) | Udemy</li>
