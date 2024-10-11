@@ -109,7 +109,7 @@
 ###  Developed by:
 <div align="center"  border-radius:100px>
   <a target="_blank" href="https://github.com/RafaelPJosephino" >
-    <img height="180em" id="foto"  src="https://avatars.githubusercontent.com/u/87491488?s=400&u=6613e283ea92675578f0bb4e0e686eace74c0390&v=4">
+    <img border-radius="50%" height="180em" id="foto"  src="https://avatars.githubusercontent.com/u/87491488?s=400&u=6613e283ea92675578f0bb4e0e686eace74c0390&v=4">
   </a>
   <p>&copy Rafael P. Josephino</p>
 </div>
