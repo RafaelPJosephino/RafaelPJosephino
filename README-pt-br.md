@@ -72,20 +72,16 @@
 ### Cursos Complementares:
 <div>
     <ul>
-    <li>BootCamp Java | DIO (Digital Innovation One)</li>
+    <li>DIO (Digital Innovation One)</li>
         <ul>
-            <li>  <a target="_blank" href="https://certificates.digitalinnovation.one/D66B9EB3" rel="nofollow">Lógica de Programação Essencial</a> (02/08/2021) | Digital Innovation One</li>
-            <li> <a target="_blank" href="https://certificates.digitalinnovation.one/5DE964CA" rel="nofollow">Introdução ao Git e ao GitHub</a>  (03/08/2021) | Digital Innovation One</li>
-            <li><a target="_blank" href="https://certificates.digitalinnovation.one/68D934D1" rel="nofollow">Fundamentos de Arquitetura de Sistemas</a> (04/08/2021) | Digital Innovation One</li>
-            <li><a target="_blank" href="https://certificates.digitalinnovation.one/345D42E5" rel="nofollow">Desenvolvimento básico em Java</a> (07/08/2021) | Digital Innovation One</li>
-            <li><a target="_blank" href="https://certificates.digitalinnovation.one/D651F37B" rel="nofollow">Implementando Collections e Streams com Java</a> (12/08/2021) | Digital Innovation One.</li>
-            <li><a target="_blank" href="https://certificates.digitalinnovation.one/B16D9132" rel="nofollow">Desenvolvimento avançado em Java</a> (15/08/2021) | Digital Innovation One.</li>
-            <li><a target="_blank" href="https://certificates.digitalinnovation.one/1A057692" rel="nofollow">Introdução ao framework Spring Boot</a>  (24/08/2021) | Digital Innovation One</li>
+            <li><a target="_blank" href="https://www.dio.me/certificate/2682DEDC" rel="nofollow">Formação .NET Developer</a> (02/11/2023)</li>
+            <li><a target="_blank" href="https://www.dio.me/certificate/00EEF16A" rel="nofollow">Formação React Developer</a> (19/07/2023)</li>
         </ul>
-    <li><a target="_blank" href="https://www.udemy.com/course/padroes-de-projeto-em-java-na-pratica/">Padrões de Projetos em Java</a>(Em Progresso) | Udemy</li>
-    <li><a target="_blank" href="https://www.udemy.com/course/java-curso-completo/">Java Programação Orientada a Objetos</a>(Em Progresso) | Udemy</li>
-    <li>Inglês Smart Choice 2B (Inglês Basico) |<a target="_blank" href="https://ybrcursos.com.br"> Yesbras</a></li>
-    <li>Manutenção de Computadores | <a target="_blank" href="https://ybrcursos.com.br">Yesbras</a></li>
+    <li>Yesbras</li>
+        <ul>
+            <li><a target="_blank" href="https://ybrcursos.com.br">Smart Choice 2B English (Ingles Basico)</a></li>
+            <li><a target="_blank" href="https://ybrcursos.com.br">Manutenção de computadores</a></li>
+        </ul>
    </ul>
 </div>
   
